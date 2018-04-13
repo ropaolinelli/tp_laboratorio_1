@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1523642314 source:c:\users\marcelo\desktop\tppp\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1523642268 c:\users\marcelo\desktop\tppp\funciones.h
+
+1523641591 source:c:\users\marcelo\desktop\tppp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"funciones.C"
+
+1523642314 c:\users\marcelo\desktop\tppp\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1523642314 source:c:\users\marcelo\desktop\trabjo practico\tp n1 (calculadora)\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1523642268 c:\users\marcelo\desktop\trabjo practico\tp n1 (calculadora)\funciones.h
+
